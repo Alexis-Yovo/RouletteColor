@@ -1,6 +1,6 @@
 import random
 
-colors_list = ["Vert","Roug","Noir"]
+colors_list = ["Vert","Rouge","Noir"]
 color_choice = input("Entrez le nom d'une couleur: ")
 
 color_random = random.choice(colors_list)
